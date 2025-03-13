@@ -2,7 +2,7 @@
 
 > **PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling** <br>
 > Nikolai Körber, Eduard Kromer, Andreas Siebert, Sascha Hauke, Daniel Mueller-Gritschneder, Björn Schuller <br>
-> ArXiv TODO
+> ArXiv 2503.09368
 
 ## Abstract
 
